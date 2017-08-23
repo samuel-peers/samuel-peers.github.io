@@ -3,7 +3,7 @@ html, body {
 }
 body {
     margin: 0;
-    background: #eee;
+    background: #fffef9;
 }
 .flex-container {
     height: 100%;
@@ -18,20 +18,37 @@ body {
     justify-content: center;
 }
 
-.top-left {
+.center-left {
     position: absolute;
-    top: 0;
-    left: 0;
+    left: 20%;
+}
+
+button.nice-button {
+    background-color: #4c4c4c;
+    height: 22px;
+    padding: 0;
+    border-style: none;
+    display: block;
+    margin: 4px;
+    -webkit-transition:1s;
+    -moz-transition:1s;
+    -o-transition:1s;
+    transition:1s;
+}
+
+button.nice-button:hover {
+    background-color: #333333;
 }
 
 .banner {
-    width: 40rem;
+    width: 28rem;
 }
 
 .small-banner {
-    width: 5rem;
+    width: 11rem;
 }
 
-.padded {
-    padding: 15px;   
+.image-links {
+    margin-top: 5px;
+    margin-left: 20px;
 }

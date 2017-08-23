@@ -11,23 +11,23 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="135.86986mm"
    height="17.538095mm"
-   viewBox="0 0 481.42879 62.142856"
-   id="svg6041"
+   viewBox="0 0 481.42863 62.142858"
+   id="svg4263"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="resume.svg">
+   sodipodi:docname="linkedin.svg">
   <defs
-     id="defs6043" />
+     id="defs4265" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0"
+     inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5047237"
-     inkscape:cx="224.8094"
-     inkscape:cy="85.153409"
+     inkscape:zoom="1.4"
+     inkscape:cx="224.13454"
+     inkscape:cy="20.836233"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -41,14 +41,14 @@
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
-     id="metadata6046">
+     id="metadata4268">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,50 +56,31 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-147.42052,-477.72255)">
-    <rect
-       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4161-7"
-       width="41.530388"
-       height="42.994598"
-       x="577.07654"
-       y="486.63208"
-       ry="3.5239851" />
-    <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4165-3-6"
-       width="29.414787"
-       height="3.9896402"
-       x="583.27441"
-       y="499.41034"
-       ry="0.0097726695" />
-    <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4165-3-6-8"
-       width="29.414797"
-       height="3.9896412"
-       x="582.8316"
-       y="507.28735"
-       ry="0.0097726723" />
-    <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4165-3-6-2"
-       width="18.84148"
-       height="3.9896412"
-       x="582.8316"
-       y="514.8172"
-       ry="0.0097726723" />
+     transform="translate(-69.999947,-563.43359)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="161.60538"
-       y="522.18817"
+       x="84.236855"
+       y="608.05273"
        id="text6589"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6591"
-         x="161.60538"
-         y="522.18817"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50001144px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#fffef9;fill-opacity:1">RESUME</tspan></text>
+         x="84.236855"
+         y="608.05273"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50001144px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#fffef9;fill-opacity:1">LINKEDIN</tspan></text>
+    <rect
+       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4161"
+       width="41.53035"
+       height="42.99456"
+       x="499.14935"
+       y="573.00775"
+       ry="3.523982" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 537.06748,611.27148 -7.36718,0 0,-12.43212 c 0,-1.95229 -2.19174,-3.57307 -4.14404,-3.57307 -1.95229,0 -3.22314,1.62078 -3.22314,3.57307 l 0,12.43212 -7.36716,0 0,-22.10152 7.36716,0 0,3.68358 c 1.2156,-1.97073 4.34664,-3.24156 6.4463,-3.24156 4.60448,0 8.28806,3.75727 8.28806,8.30649 l 0,13.35301 m -25.78511,0 -7.36718,0 0,-22.10152 7.36718,0 0,22.10152 m -3.6836,-33.15229 a 3.6835876,3.6835876 0 0 1 3.6836,3.68358 3.6835876,3.6835876 0 0 1 -3.6836,3.6836 3.6835876,3.6835876 0 0 1 -3.68358,-3.6836 3.6835876,3.6835876 0 0 1 3.68358,-3.68358 z"
+       id="path4"
+       style="fill:#4c4c4c;fill-opacity:1" />
   </g>
 </svg>
