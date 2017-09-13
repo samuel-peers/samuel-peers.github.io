@@ -26,14 +26,16 @@ body {
 button.nice-button {
     background-color: #4c4c4c;
     height: 22px;
-    padding: 0;
+    padding: 2px 3px 2px 6px;
     border-style: none;
     display: block;
     margin: 4px;
-    -webkit-transition:1s;
-    -moz-transition:1s;
-    -o-transition:1s;
-    transition:1s;
+    -webkit-transition: 1s;
+    -moz-transition: 1s;
+    -o-transition: 1s;
+    transition: 1s;
+    border-radius: 2px;
+    width: 186px;
 }
 
 button.nice-button:hover {
@@ -46,9 +48,15 @@ button.nice-button:hover {
 
 .small-banner {
     width: 11rem;
+    height: 100%;
 }
 
 .image-links {
     margin-top: 5px;
     margin-left: 20px;
+}
+
+.button-link {
+    height: 100%;
+    display: inline-block;
 }
