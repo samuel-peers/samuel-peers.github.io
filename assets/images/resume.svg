@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="128.0251mm"
-   height="12.134027mm"
-   viewBox="0 0 453.6324 42.994581"
+   width="11.720797mm"
+   height="12.134029mm"
+   viewBox="0 0 41.530396 42.994591"
    id="svg6041"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="1.0.1 (1.0.1+r73)"
    sodipodi:docname="resume.svg">
   <defs
      id="defs6043" />
@@ -25,9 +23,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5047237"
-     inkscape:cx="207.25541"
-     inkscape:cy="74.914672"
+     inkscape:zoom="2.1280007"
+     inkscape:cx="-20.025359"
+     inkscape:cy="64.238324"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +34,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata6046">
     <rdf:RDF>
@@ -48,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,9 +55,9 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-164.97452,-486.63209)">
+     transform="translate(-577.07654,-486.63208)">
     <rect
-       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4161-7"
        width="41.530388"
        height="42.994598"
@@ -66,40 +65,28 @@
        y="486.63208"
        ry="3.5239851" />
     <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4165-3-6"
        width="29.414787"
        height="3.9896402"
-       x="583.27441"
-       y="499.41034"
+       x="583.5249"
+       y="498.76779"
        ry="0.0097726695" />
     <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4165-3-6-8"
        width="29.414797"
        height="3.9896412"
-       x="582.8316"
-       y="507.28735"
+       x="583.08209"
+       y="506.64481"
        ry="0.0097726723" />
     <rect
-       style="fill:#4c4c4c;fill-opacity:1;stroke:none;stroke-width:10.19999981;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:10.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4165-3-6-2"
        width="18.84148"
        height="3.9896412"
-       x="582.8316"
-       y="514.8172"
+       x="583.08209"
+       y="514.17462"
        ry="0.0097726723" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffef9;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="161.60538"
-       y="522.18817"
-       id="text6589"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6591"
-         x="161.60538"
-         y="522.18817"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.50001144px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';fill:#fffef9;fill-opacity:1">RESUME</tspan></text>
   </g>
 </svg>
