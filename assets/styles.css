@@ -42,13 +42,16 @@ body {
 .image-links {
     margin-top: 5px;
     margin-left: 20px;
+    width: 0;
 }
 
 .my-link {
     margin: 5px;
     text-decoration: none;
-    color: #fffef9;
+    color: #373737;
+    display: block;
 }
 
 my-link.nice-button:hover {
+    color: #1a1a1a;
 }
