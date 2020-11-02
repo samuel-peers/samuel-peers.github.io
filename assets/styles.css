@@ -4,6 +4,7 @@ html, body {
 body {
     margin: 0;
     background: #fffef9;
+    font-family: montserrat, arial;
 }
 .flex-container {
     height: 100%;
@@ -21,6 +22,12 @@ body {
 .center-left {
     position: absolute;
     left: 20%;
+}
+
+.my-name {
+    font-size: 5em;
+    font-weight: bold;
+    color: 373737;
 }
 
 button.nice-button {
@@ -59,4 +66,6 @@ button.nice-button:hover {
 .button-link {
     height: 100%;
     display: inline-block;
+    text-decoration: none;
+    color: #fffef9;
 }
