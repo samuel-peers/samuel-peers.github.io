@@ -12,7 +12,7 @@ body {
   height: 100%;
   padding: 0;
   margin: 0;
-  margin-left: 40px;
+  margin-left: 100px;
   display: -webkit-box;
   display: -moz-box;
   display: -ms-flexbox;
@@ -28,13 +28,18 @@ body {
   }
 }
 
-.my-name {
+.name {
   font-size: 5em;
   font-weight: bold;
   color: #373737;
 }
 
-.my-link {
+.links {
+  margin-left: 10px;
+  width: 0;
+}
+
+.link {
   margin: 5px;
   text-decoration: none;
   color: #373737;
